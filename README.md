@@ -1,5 +1,5 @@
 # Up-Down-Counter
-A simple up-down counter made using icarus verilog as a part of the Digital Design and Computer Organization course (UE18CS201) at PES University.
+A simple up-down counter project made using icarus verilog as a part of the Digital Design and Computer Organization course (UE18CS201) at PES University.
 
 *Created and tested on Linux Environment* :)
 
